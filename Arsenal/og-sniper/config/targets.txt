@@ -1,4 +1,1 @@
 # targets Here
-aws.nimbus.htb
-nimbus.htb
-admin.nimbus.htb
